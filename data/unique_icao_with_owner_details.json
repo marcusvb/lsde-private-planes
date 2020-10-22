@@ -1,0 +1,3008 @@
+[
+  {
+    "icao": "4d0224",
+    "owner": "Global Jet Luxembourg Sa",
+    "manufacturername": "Dassault",
+    "serialnumber": "56",
+    "nof": 3,
+    "onwer_type": "charter/management",
+    "owner_country": "Luxembourg"
+  },
+  {
+    "icao": "484118",
+    "owner": "Prime Aviation Jsc",
+    "manufacturername": "Bombardier",
+    "serialnumber": "5886",
+    "nof": 1,
+    "onwer_type": "private company",
+    "owner_country": "Kazakhstan"
+  },
+  {
+    "icao": "4d20af",
+    "owner": "Avcon Jet Malta Ltd",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9547",
+    "nof": 1,
+    "onwer_type": "charter",
+    "owner_country": "Malta"
+  },
+  {
+    "icao": "44b1a7",
+    "owner": "Luxaviation Belgium",
+    "manufacturername": "Dassault",
+    "serialnumber": "152",
+    "nof": 4,
+    "onwer_type": "charter",
+    "owner_country": "Belgium"
+  },
+  {
+    "icao": "c04c04",
+    "owner": "Canadian Utilities Limited",
+    "manufacturername": "Dassault Aviation",
+    "serialnumber": "57",
+    "nof": 1,
+    "onwer_type": "utilities company",
+    "owner_country": "Canada"
+  },
+  {
+    "icao": "e48fd1",
+    "owner": "Lojas Americanas Sa",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500211",
+    "nof": 6,
+    "onwer_type": "retail",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "440794",
+    "owner": "Luxaviation Germany Gmbh",
+    "manufacturername": "Learjet Inc.",
+    "serialnumber": "45-491",
+    "nof": 23,
+    "onwer_type": "charter",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "4b19ab",
+    "owner": "Avaton Global Ltd.",
+    "manufacturername": "Dassault Aviation",
+    "serialnumber": "017",
+    "nof": 13,
+    "onwer_type": "private company",
+    "owner_country": "British Virgin Islands"
+  },
+  {
+    "icao": "4d0215",
+    "owner": "Global Jet Luxembourg Sa",
+    "manufacturername": "Airbus",
+    "serialnumber": "3100",
+    "nof": 7,
+    "onwer_type": "charter/management",
+    "owner_country": "Luxembourg"
+  },
+  {
+    "icao": "43e98b",
+    "owner": "S & K Aviation Inc",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9486",
+    "nof": 3,
+    "onwer_type": "aircraft management/maitnenance",
+    "owner_country": "USA"
+  },
+  {
+    "icao": "4066bb",
+    "owner": "Tag Aviation (uk) Ltd",
+    "manufacturername": "Bombardier Inc",
+    "serialnumber": "5872",
+    "nof": 5,
+    "onwer_type": "charter/maintenance",
+    "owner_country": "UK"
+  },
+  {
+    "icao": "a1c54e",
+    "owner": "Tvpx Aircraft Solutions Inc Trustee",
+    "manufacturername": "Bombardier Inc",
+    "serialnumber": "5965",
+    "nof": 1,
+    "onwer_type": "trustee",
+    "owner_country": "USA"
+  },
+  {
+    "icao": "43e92e",
+    "owner": "Head Start Aviation",
+    "manufacturername": "Dassault",
+    "serialnumber": "101",
+    "nof": 6,
+    "onwer_type": "plane sales",
+    "owner_country": "France"
+  },
+  {
+    "icao": "4b182e",
+    "owner": "Legendair Ag",
+    "manufacturername": "Bombardier",
+    "serialnumber": "20029",
+    "nof": 3,
+    "onwer_type": "charter",
+    "owner_country": "Switzerland"
+  },
+  {
+    "icao": "4d022c",
+    "owner": "Global Jet Luxembourg Sa",
+    "manufacturername": "Dassault",
+    "serialnumber": "167",
+    "nof": 6,
+    "onwer_type": "charter/management",
+    "owner_country": "Luxembourg"
+  },
+  {
+    "icao": "3ce629",
+    "owner": "Hw Aviation Gmbh",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500207",
+    "nof": 11,
+    "onwer_type": "charter",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "c03000",
+    "owner": "Image Air Charter Ltd.",
+    "manufacturername": "Bombardier Inc.",
+    "serialnumber": "5861",
+    "nof": 3,
+    "onwer_type": "charter ",
+    "owner_country": "Canada"
+  },
+  {
+    "icao": "47942d",
+    "owner": "Rely A/s",
+    "manufacturername": "Dassault",
+    "serialnumber": "154",
+    "nof": 7,
+    "onwer_type": "airline industry company",
+    "owner_country": "Norway"
+  },
+  {
+    "icao": "adf430",
+    "owner": "Bernie Eccleston",
+    "manufacturername": "Dassault",
+    "serialnumber": "08",
+    "nof": 1,
+    "onwer_type": "person",
+    "owner_country": "Former Chief Executive Formula One"
+  },
+  {
+    "icao": "4b19a5",
+    "owner": "Dasnair Sa",
+    "manufacturername": "Dassault",
+    "serialnumber": "76",
+    "nof": 12,
+    "onwer_type": "charter/management",
+    "owner_country": "Switzerland"
+  },
+  {
+    "icao": "516031",
+    "owner": "Montenegro Airlines",
+    "manufacturername": "Embraer",
+    "serialnumber": "19000665",
+    "nof": 12,
+    "onwer_type": "public airline",
+    "owner_country": "Montenegro"
+  },
+  {
+    "icao": "399043",
+    "owner": "Unijet Sa",
+    "manufacturername": "Dassault",
+    "serialnumber": "134",
+    "nof": 2,
+    "onwer_type": "transportation & logistics company",
+    "owner_country": "France"
+  },
+  {
+    "icao": "4d20b7",
+    "owner": "Vista Jet Malta",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9571",
+    "nof": 11,
+    "onwer_type": "charter/management",
+    "owner_country": "Malta"
+  },
+  {
+    "icao": "44b824",
+    "owner": "Flying Service Nv",
+    "manufacturername": "Dassault",
+    "serialnumber": "41",
+    "nof": 16,
+    "onwer_type": "airport services",
+    "owner_country": "Belgium"
+  },
+  {
+    "icao": "a16678",
+    "owner": "Gorman-rupp Co",
+    "manufacturername": "Learjet Inc",
+    "serialnumber": "470",
+    "nof": 4,
+    "onwer_type": "pump company",
+    "owner_country": "Netherlands"
+  },
+  {
+    "icao": "405eaa",
+    "owner": "Tag Aviation (uk) Ltd",
+    "manufacturername": "Bombardier",
+    "serialnumber": "5760",
+    "nof": 37,
+    "onwer_type": "charter/maintenance",
+    "owner_country": "UK"
+  },
+  {
+    "icao": "42424f",
+    "owner": "Jet Aviation Business Jets Ag",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9273",
+    "nof": 2,
+    "onwer_type": "charter/management",
+    "owner_country": "Switzerland"
+  },
+  {
+    "icao": "406984",
+    "owner": "Tag Aviation (uk) Ltd",
+    "manufacturername": "Dassault Aviation",
+    "serialnumber": "705",
+    "nof": 11,
+    "onwer_type": "charter/maintenance",
+    "owner_country": "UK"
+  },
+  {
+    "icao": "a98bca",
+    "owner": "Jet Aviation Flight Services Inc",
+    "manufacturername": "Dassault",
+    "serialnumber": "100",
+    "nof": 3,
+    "onwer_type": "charter/management",
+    "owner_country": "USA"
+  },
+  {
+    "icao": "800429",
+    "owner": "Reliance Transport & Travel Ltd",
+    "manufacturername": "Airbus",
+    "serialnumber": "2837",
+    "nof": 5,
+    "onwer_type": "transportation company",
+    "owner_country": "India"
+  },
+  {
+    "icao": "e48c82",
+    "owner": "Delphia Participacoes Sa",
+    "manufacturername": "Bombardier",
+    "serialnumber": "20387",
+    "nof": 1,
+    "onwer_type": "private company",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "4d2111",
+    "owner": "Albinati Aviation Ltd",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9353",
+    "nof": 2,
+    "onwer_type": "unknown",
+    "owner_country": "unknown"
+  },
+  {
+    "icao": "a37750",
+    "owner": "Switchback Argentina Llc",
+    "manufacturername": "Cessna",
+    "serialnumber": "525C0053",
+    "nof": 0,
+    "onwer_type": "charter",
+    "owner_country": "Argentina"
+  },
+  {
+    "icao": "4bcf41",
+    "owner": "Swan Aviation",
+    "manufacturername": "Dassault",
+    "serialnumber": "225",
+    "nof": 0,
+    "onwer_type": "charter",
+    "owner_country": "Turkey"
+  },
+  {
+    "icao": "0d07aa",
+    "owner": "Servicios Aereos Across",
+    "manufacturername": "Cessna",
+    "serialnumber": "680-0050",
+    "nof": 0,
+    "onwer_type": "charter",
+    "owner_country": "Mexico"
+  },
+  {
+    "icao": "424241",
+    "owner": "Michael Ashcroft",
+    "manufacturername": "Dassault",
+    "serialnumber": "14",
+    "nof": 0,
+    "onwer_type": "Michael Ashcroft",
+    "owner_country": "UK"
+  },
+  {
+    "icao": "45d92b",
+    "owner": "Air Alsie",
+    "manufacturername": "Dassault",
+    "serialnumber": "85",
+    "nof": 10,
+    "onwer_type": "charter",
+    "owner_country": "Danmark"
+  },
+  {
+    "icao": "4b19a4",
+    "owner": "Cayley Ag",
+    "manufacturername": "Dassault Aviation",
+    "serialnumber": "181",
+    "nof": 1,
+    "onwer_type": "asset management company",
+    "owner_country": "Switzerland"
+  },
+  {
+    "icao": "899056",
+    "owner": "Eva Air",
+    "manufacturername": "Airbus",
+    "serialnumber": "3363",
+    "nof": 5,
+    "onwer_type": "public airline",
+    "owner_country": "Taiwan"
+  },
+  {
+    "icao": "4d022b",
+    "owner": "Global Jet Luxembourg Sa",
+    "manufacturername": "Dassault",
+    "serialnumber": "242",
+    "nof": 18,
+    "onwer_type": "charter/management",
+    "owner_country": "Luxembourg"
+  },
+  {
+    "icao": "e48925",
+    "owner": "Ovd Importadora E Distribuidora Ltda",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500055",
+    "nof": 0,
+    "onwer_type": "Tools",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "06a0d7",
+    "owner": "Qatar Executive",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9370",
+    "nof": 8,
+    "onwer_type": "charter",
+    "owner_country": "Qatar"
+  },
+  {
+    "icao": "43ea1f",
+    "owner": "Pacelli Beteiligungs Gmbh",
+    "manufacturername": "Dassault",
+    "serialnumber": "224",
+    "nof": 1,
+    "onwer_type": "venture capital company",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "424750",
+    "owner": "Europ Star Aircraft Gmbh",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9584",
+    "nof": 12,
+    "onwer_type": "charter",
+    "owner_country": "Austria"
+  },
+  {
+    "icao": "c002ea",
+    "owner": "I.m.p. Group Limited (execaire)",
+    "manufacturername": "Bombardier Inc.",
+    "serialnumber": "5579",
+    "nof": 2,
+    "onwer_type": "charter",
+    "owner_country": "USA"
+  },
+  {
+    "icao": "3939ec",
+    "owner": "Aero Vision",
+    "manufacturername": "Dassault",
+    "serialnumber": "302",
+    "nof": 8,
+    "onwer_type": "leasing",
+    "owner_country": "USA"
+  },
+  {
+    "icao": "451d86",
+    "owner": "Bulgaria Air",
+    "manufacturername": "Embraer",
+    "serialnumber": "19000496",
+    "nof": 70,
+    "onwer_type": "public ",
+    "owner_country": "Bulgaria"
+  },
+  {
+    "icao": "43e9e9",
+    "owner": "Fimway Asset Holding Ltd",
+    "manufacturername": "Cessna",
+    "serialnumber": "525C0143",
+    "nof": 6,
+    "onwer_type": "private company",
+    "owner_country": "USA"
+  },
+  {
+    "icao": "4b39f0",
+    "owner": "Manhag Ag",
+    "manufacturername": "Embraer - Empresa Brasileira De Aeron\u00e1utica Sa",
+    "serialnumber": "50500023",
+    "nof": 6,
+    "onwer_type": "charter",
+    "owner_country": "Switzerland"
+  },
+  {
+    "icao": "3992f1",
+    "owner": "Dassault Aviation",
+    "manufacturername": "Dassault",
+    "serialnumber": "223",
+    "nof": 4,
+    "onwer_type": "aviation company",
+    "owner_country": "French"
+  },
+  {
+    "icao": "800501",
+    "owner": "Bajaj Auto Ltd",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9149",
+    "nof": 0,
+    "onwer_type": "charter",
+    "owner_country": "India"
+  },
+  {
+    "icao": "e4905c",
+    "owner": "Companhia Bras De Metal E Mineracao",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500245",
+    "nof": 5,
+    "onwer_type": "metalurgy company",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "3c4c4e",
+    "owner": "Dc Aviation",
+    "manufacturername": "Airbus",
+    "serialnumber": "3243",
+    "nof": 1,
+    "onwer_type": "charter/management",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "3cfaf9",
+    "owner": "Wirtgen Gmbh",
+    "manufacturername": "Cessna",
+    "serialnumber": "525C0118",
+    "nof": 4,
+    "onwer_type": "construction machinery company",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "0d090f",
+    "owner": "Transportes Aereos Mexiquenses Sa De Cv",
+    "manufacturername": "Dassault",
+    "serialnumber": "252",
+    "nof": 0,
+    "onwer_type": "charter",
+    "owner_country": "Mexico"
+  },
+  {
+    "icao": "ae0438",
+    "owner": "Usaf",
+    "manufacturername": null,
+    "serialnumber": null,
+    "nof": 2,
+    "onwer_type": "military",
+    "owner_country": "USA"
+  },
+  {
+    "icao": "43ea4e",
+    "owner": "Harpin Parkin Aviation Limited",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500276",
+    "nof": 11,
+    "onwer_type": "private company",
+    "owner_country": "UK"
+  },
+  {
+    "icao": "39bd2b",
+    "owner": "Aerovision",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500274",
+    "nof": 1,
+    "onwer_type": "unknown",
+    "owner_country": "unknown"
+  },
+  {
+    "icao": "06a0a4",
+    "owner": "Qatar Amiri Flight",
+    "manufacturername": "Airbus",
+    "serialnumber": "4170",
+    "nof": 12,
+    "onwer_type": "government/charter",
+    "owner_country": "Qatar"
+  },
+  {
+    "icao": "440841",
+    "owner": "Speedwings Executive Jet Gmbh",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500325",
+    "nof": 2,
+    "onwer_type": "charter",
+    "owner_country": "Austria"
+  },
+  {
+    "icao": "e49054",
+    "owner": "Construtora Terra Simao Ltda",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500236",
+    "nof": 1,
+    "onwer_type": "real estate",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "4d2031",
+    "owner": "Elitavia",
+    "manufacturername": "Bombardier",
+    "serialnumber": "5713",
+    "nof": 2,
+    "onwer_type": "charter/management",
+    "owner_country": "Slovenia"
+  },
+  {
+    "icao": "e49037",
+    "owner": "Chibatao Navegacao E Comercio Ltda",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500229",
+    "nof": 3,
+    "onwer_type": "shipping containers/ freight company",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "4405dd",
+    "owner": "Tyrolean Jet Service Gmbh",
+    "manufacturername": "Airbus",
+    "serialnumber": "4169",
+    "nof": 8,
+    "onwer_type": "charter",
+    "owner_country": "Austria"
+  },
+  {
+    "icao": "4b39f6",
+    "owner": "Satu Aviation Ag",
+    "manufacturername": "Embraer S.a.",
+    "serialnumber": "50500181",
+    "nof": 11,
+    "onwer_type": "charter",
+    "owner_country": "Switzerland"
+  },
+  {
+    "icao": "aa6c6a",
+    "owner": "Lacob Ventures Llc",
+    "manufacturername": "Dassault Aviation",
+    "serialnumber": "16",
+    "nof": 1,
+    "onwer_type": "person",
+    "owner_country": "Joe Lacob"
+  },
+  {
+    "icao": "43e9e8",
+    "owner": "Maleth-aero Aoc Ltd",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9516",
+    "nof": 5,
+    "onwer_type": "charter",
+    "owner_country": "Malta"
+  },
+  {
+    "icao": "70c0ba",
+    "owner": "Oman Royal Flight",
+    "manufacturername": "Airbus",
+    "serialnumber": "4992",
+    "nof": 4,
+    "onwer_type": "Private",
+    "owner_country": "Oman"
+  },
+  {
+    "icao": "424767",
+    "owner": "Silverwings Llc",
+    "manufacturername": "Embraer",
+    "serialnumber": "14501196",
+    "nof": 4,
+    "onwer_type": "trucking equipment company",
+    "owner_country": "USA"
+  },
+  {
+    "icao": "4d02e7",
+    "owner": "Tika Sarl",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500286",
+    "nof": 7,
+    "onwer_type": "private company",
+    "owner_country": "Luxembourg"
+  },
+  {
+    "icao": "e48d6e",
+    "owner": "Tellerina Comercio De Productos E Artigos Para Decoracao Sa",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500129",
+    "nof": 7,
+    "onwer_type": "unknown",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "06a0d6",
+    "owner": "Qatar Executive",
+    "manufacturername": "Airbus",
+    "serialnumber": "3994",
+    "nof": 3,
+    "onwer_type": "charter",
+    "owner_country": "Qatar"
+  },
+  {
+    "icao": "3cc9f3",
+    "owner": "Wolfgang Dietz",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500198",
+    "nof": 21,
+    "onwer_type": "person",
+    "owner_country": "unknown"
+  },
+  {
+    "icao": "e48ef4",
+    "owner": "Brasil Jato Taxi Aereo Sa",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500178",
+    "nof": 2,
+    "onwer_type": "charter",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "acb60e",
+    "owner": "Jet Aviation Flight Services Inc",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9613",
+    "nof": 0,
+    "onwer_type": "charter/management",
+    "owner_country": "USA"
+  },
+  {
+    "icao": "e49055",
+    "owner": "John Deere Brasil Ltda",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500249",
+    "nof": 1,
+    "onwer_type": "charter/management",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "43ea21",
+    "owner": "The Private Jet Company",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9401",
+    "nof": 7,
+    "onwer_type": "charter/management ",
+    "owner_country": "Island of Man"
+  },
+  {
+    "icao": "896302",
+    "owner": "Emirates Airline",
+    "manufacturername": "Airbus",
+    "serialnumber": "4822",
+    "nof": 4,
+    "onwer_type": "public",
+    "owner_country": "UAE"
+  },
+  {
+    "icao": "3cc253",
+    "owner": "Aerowest Flugcharter Gmbh",
+    "manufacturername": "Cessna",
+    "serialnumber": "680-0535",
+    "nof": 22,
+    "onwer_type": "charter",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "42413f",
+    "owner": "Luk-avia Inc",
+    "manufacturername": "Dassault",
+    "serialnumber": "226",
+    "nof": 1,
+    "onwer_type": "oil company",
+    "owner_country": "Russia"
+  },
+  {
+    "icao": "4069e6",
+    "owner": "Flight Partner Ltd",
+    "manufacturername": "Cessna Aircraft Company",
+    "serialnumber": "525C-0134",
+    "nof": 4,
+    "onwer_type": "management",
+    "owner_country": "UK"
+  },
+  {
+    "icao": "3cd437",
+    "owner": "Hahn Air",
+    "manufacturername": "Cessna",
+    "serialnumber": "525C0144",
+    "nof": 13,
+    "onwer_type": "charter/management",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "4a914c",
+    "owner": "Industriflyg",
+    "manufacturername": "Dassault",
+    "serialnumber": "40",
+    "nof": 0,
+    "onwer_type": "charter",
+    "owner_country": "Sweden"
+  },
+  {
+    "icao": "e48abe",
+    "owner": "Eletrocal Industria E Comercio De Materiais Eletricos Ltda",
+    "manufacturername": "Cessna",
+    "serialnumber": "525C0056",
+    "nof": 0,
+    "onwer_type": "electrical material trading company",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "a638b1",
+    "owner": "Smg Growing Media Llc",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9605",
+    "nof": 4,
+    "onwer_type": "tractor & equipment company",
+    "owner_country": "USA"
+  },
+  {
+    "icao": "aa2e14",
+    "owner": "Zetta Jet",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9468",
+    "nof": 9,
+    "onwer_type": "charter",
+    "owner_country": "USA"
+  },
+  {
+    "icao": "780da3",
+    "owner": "Beijing City International Jet",
+    "manufacturername": "Dassault",
+    "serialnumber": "251",
+    "nof": 1,
+    "onwer_type": "charter",
+    "owner_country": "China"
+  },
+  {
+    "icao": "45d273",
+    "owner": "Air Alsie",
+    "manufacturername": "Dassault",
+    "serialnumber": "98",
+    "nof": 1,
+    "onwer_type": "charter",
+    "owner_country": "Danmark"
+  },
+  {
+    "icao": "e48d2b",
+    "owner": "Aguassanta Participacoes Sa",
+    "manufacturername": "Dassault",
+    "serialnumber": "187",
+    "nof": 4,
+    "onwer_type": "private",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "e48f75",
+    "owner": "Aj Malls Shoppings E Merchandising Ltda",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500192",
+    "nof": 8,
+    "onwer_type": "private company",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "8962d4",
+    "owner": "Fujairah Aviation Centre",
+    "manufacturername": "Dassault",
+    "serialnumber": "407",
+    "nof": 0,
+    "onwer_type": "aircraft maintenance/training",
+    "owner_country": "UAE"
+  },
+  {
+    "icao": "43e7ba",
+    "owner": "Sophar Property Holdings",
+    "manufacturername": "Airbus",
+    "serialnumber": "4151",
+    "nof": 10,
+    "onwer_type": "charter",
+    "owner_country": "Russia"
+  },
+  {
+    "icao": "43e9db",
+    "owner": "Execujet Uk Ltd",
+    "manufacturername": "Dassault",
+    "serialnumber": "216",
+    "nof": 2,
+    "onwer_type": "charter",
+    "owner_country": "Switzerland"
+  },
+  {
+    "icao": "4a512b",
+    "owner": "Tiriac Air",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9229",
+    "nof": 7,
+    "onwer_type": "charter/management ",
+    "owner_country": "Romania"
+  },
+  {
+    "icao": "a91607",
+    "owner": "Corporate",
+    "manufacturername": "Cessna",
+    "serialnumber": "680A-0005",
+    "nof": 28,
+    "onwer_type": "unknown",
+    "owner_country": "unknown"
+  },
+  {
+    "icao": "45cdda",
+    "owner": "Execujet Scandinavia",
+    "manufacturername": "Dassault",
+    "serialnumber": "95",
+    "nof": 1,
+    "onwer_type": "charter",
+    "owner_country": "Switzerland"
+  },
+  {
+    "icao": "ac3d0e",
+    "owner": "Hgc Holdings Llc",
+    "manufacturername": "Cessna",
+    "serialnumber": "525C0183",
+    "nof": 5,
+    "onwer_type": "exploration and production services company",
+    "owner_country": "USA"
+  },
+  {
+    "icao": "e49083",
+    "owner": "Brazil Warrant Adm.de Goods And Emp.sa",
+    "manufacturername": "Dassault",
+    "serialnumber": "237",
+    "nof": 1,
+    "onwer_type": "wholesale company",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "459544",
+    "owner": "Air Alsie",
+    "manufacturername": "Dassault",
+    "serialnumber": "236",
+    "nof": 4,
+    "onwer_type": "charter",
+    "owner_country": "Danmark"
+  },
+  {
+    "icao": "020110",
+    "owner": "Royal Air Maroc",
+    "manufacturername": "Embraer",
+    "serialnumber": "19000680",
+    "nof": 38,
+    "onwer_type": "public airline",
+    "owner_country": "Marocco"
+  },
+  {
+    "icao": "a62665",
+    "owner": "Exelon Business Services Company Llc",
+    "manufacturername": "Dassault Aviation",
+    "serialnumber": "211",
+    "nof": 0,
+    "onwer_type": "energy services",
+    "owner_country": "USA"
+  },
+  {
+    "icao": "e48b45",
+    "owner": "Cb Air Taxi Aereo",
+    "manufacturername": "Embraer",
+    "serialnumber": "14501188",
+    "nof": 0,
+    "onwer_type": "charter",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "a69bf1",
+    "owner": "Poet Inc",
+    "manufacturername": "Cessna",
+    "serialnumber": "525C0007",
+    "nof": 0,
+    "onwer_type": "sustainabe energy company",
+    "owner_country": "USA"
+  },
+  {
+    "icao": "e488ca",
+    "owner": "Pp-lgd Administracao De Bem Proprio Sa",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500052",
+    "nof": 0,
+    "onwer_type": "private company",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "4be50b",
+    "owner": "Hayat Air",
+    "manufacturername": "Dassault",
+    "serialnumber": "09",
+    "nof": 0,
+    "onwer_type": "HVAC company",
+    "owner_country": "India"
+  },
+  {
+    "icao": "39a56c",
+    "owner": "Brit Aero",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500304",
+    "nof": 0,
+    "onwer_type": "aviation consulting",
+    "owner_country": "UK"
+  },
+  {
+    "icao": "ac6434",
+    "owner": "Aircraft Guaranty Corp Trustee",
+    "manufacturername": "Embraer-empresa Brasileira De",
+    "serialnumber": "50500048",
+    "nof": 3,
+    "onwer_type": "trustee",
+    "owner_country": "USA"
+  },
+  {
+    "icao": "780a23",
+    "owner": "Tag Aviation Asia",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9998",
+    "nof": 0,
+    "onwer_type": "charter/maintenance",
+    "owner_country": "Hong Kong"
+  },
+  {
+    "icao": "e024d3",
+    "owner": "Gregorio Perez Companc",
+    "manufacturername": "Bombardier",
+    "serialnumber": "20219",
+    "nof": 2,
+    "onwer_type": "person",
+    "owner_country": "Argentinian "
+  },
+  {
+    "icao": "4d02de",
+    "owner": "Luxaviation Sa",
+    "manufacturername": "Bombardier",
+    "serialnumber": "20097",
+    "nof": 22,
+    "onwer_type": "charter",
+    "owner_country": "Luxembourg"
+  },
+  {
+    "icao": "e488c9",
+    "owner": "Reali Taxi Aereo Ltda",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500049",
+    "nof": 2,
+    "onwer_type": "private company",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "c00319",
+    "owner": "Acass Canada",
+    "manufacturername": "Bombardier",
+    "serialnumber": "5474",
+    "nof": 1,
+    "onwer_type": "charter",
+    "owner_country": "Canada"
+  },
+  {
+    "icao": "43ea5a",
+    "owner": "Sapetro Aviation Ltd",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9668",
+    "nof": 0,
+    "onwer_type": "oil & gas company",
+    "owner_country": "Nigeria"
+  },
+  {
+    "icao": "3cd436",
+    "owner": "E-aviation",
+    "manufacturername": "Cessna",
+    "serialnumber": "525C0058",
+    "nof": 17,
+    "onwer_type": "charter",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "451cc1",
+    "owner": "Bulgaria Air",
+    "manufacturername": "Embraer",
+    "serialnumber": "19000584",
+    "nof": 63,
+    "onwer_type": "public ",
+    "owner_country": "Bulgaria"
+  },
+  {
+    "icao": "49d265",
+    "owner": "Leteck Muzeum Tocn Sro",
+    "manufacturername": "Cessna",
+    "serialnumber": "525C0085",
+    "nof": 7,
+    "onwer_type": "unknown",
+    "owner_country": "Czech Republic"
+  },
+  {
+    "icao": "e48eb5",
+    "owner": "Companhia Tecidos Santanense",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500113",
+    "nof": 1,
+    "onwer_type": "private company",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "4a914b",
+    "owner": "Industriflyg",
+    "manufacturername": "Dassault",
+    "serialnumber": "59",
+    "nof": 6,
+    "onwer_type": "charter",
+    "owner_country": "Sweden"
+  },
+  {
+    "icao": "43e887",
+    "owner": "Japat Ag",
+    "manufacturername": "Dassault",
+    "serialnumber": "156",
+    "nof": 6,
+    "onwer_type": "port, harbor & marine terminal management company",
+    "owner_country": "Switzerland"
+  },
+  {
+    "icao": "e4902e",
+    "owner": "Eurofarma Laboratorios S/a",
+    "manufacturername": "Embraer",
+    "serialnumber": "55000005",
+    "nof": 7,
+    "onwer_type": "pharmaceutical company",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "4407c0",
+    "owner": "The Flying Bulls Gmbh",
+    "manufacturername": "Cessna Aircraft Company",
+    "serialnumber": "560-0814",
+    "nof": 9,
+    "onwer_type": "event company",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "4b18d3",
+    "owner": "Tag Aviation Sa",
+    "manufacturername": "Dassault",
+    "serialnumber": "244",
+    "nof": 9,
+    "onwer_type": "charter/maintenance",
+    "owner_country": "Switzerland"
+  },
+  {
+    "icao": "440208",
+    "owner": "Avcon Jet Ag",
+    "manufacturername": "Bombardier Inc. Canadair",
+    "serialnumber": "5654",
+    "nof": 3,
+    "onwer_type": "charter",
+    "owner_country": "Austria"
+  },
+  {
+    "icao": "406e95",
+    "owner": "Centreline Air Charter Ltd",
+    "manufacturername": "Dassault Aviation",
+    "serialnumber": "269",
+    "nof": 11,
+    "onwer_type": "charter/management",
+    "owner_country": "England"
+  },
+  {
+    "icao": "020111",
+    "owner": "Royal Air Maroc",
+    "manufacturername": "Embraer",
+    "serialnumber": "19000681",
+    "nof": 45,
+    "onwer_type": "public airline",
+    "owner_country": "Marocco"
+  },
+  {
+    "icao": "40668a",
+    "owner": "Tag Aviation (uk) Ltd",
+    "manufacturername": "Dassault Aviation",
+    "serialnumber": "148",
+    "nof": 3,
+    "onwer_type": "charter/maintenance",
+    "owner_country": "UK"
+  },
+  {
+    "icao": "406c08",
+    "owner": "Dragonfly Aviation Services Ltd",
+    "manufacturername": "Raytheon Aircraft Company",
+    "serialnumber": "RK-376",
+    "nof": 13,
+    "onwer_type": "charter",
+    "owner_country": "UK"
+  },
+  {
+    "icao": "424918",
+    "owner": "Government Of Jordan",
+    "manufacturername": "Airbus",
+    "serialnumber": "3751",
+    "nof": 3,
+    "onwer_type": "government",
+    "owner_country": "Jordan"
+  },
+  {
+    "icao": "7100e7",
+    "owner": "Saudi Private Aviation",
+    "manufacturername": "Dassault",
+    "serialnumber": "79",
+    "nof": 2,
+    "onwer_type": "charter",
+    "owner_country": "Saudi Arabia"
+  },
+  {
+    "icao": "398a2c",
+    "owner": "Dassault Aviation",
+    "manufacturername": "Dassault",
+    "serialnumber": "28",
+    "nof": 0,
+    "onwer_type": "aviation company",
+    "owner_country": "French"
+  },
+  {
+    "icao": "e48620",
+    "owner": "Estre Ambiental Sa",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500020",
+    "nof": 9,
+    "onwer_type": "waste management",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "45d93a",
+    "owner": "Execujet Scandinavia",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9544",
+    "nof": 6,
+    "onwer_type": "charter",
+    "owner_country": "Switzerland"
+  },
+  {
+    "icao": "484391",
+    "owner": "Jet Netherlands Bv",
+    "manufacturername": "Cessna",
+    "serialnumber": "650-0240",
+    "nof": 11,
+    "onwer_type": "charter/management",
+    "owner_country": "Netherlands"
+  },
+  {
+    "icao": "494103",
+    "owner": "Netjets Europe",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500214",
+    "nof": 27,
+    "onwer_type": "charter",
+    "owner_country": "Portugal"
+  },
+  {
+    "icao": "300473",
+    "owner": "Sirio Fly Spa",
+    "manufacturername": "Dassault",
+    "serialnumber": "81",
+    "nof": 2,
+    "onwer_type": "aircraft management/maitnenance",
+    "owner_country": "Italy"
+  },
+  {
+    "icao": "494104",
+    "owner": "Netjets Europe",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500225",
+    "nof": 45,
+    "onwer_type": "charter",
+    "owner_country": "Portugal"
+  },
+  {
+    "icao": "4b3900",
+    "owner": "Baruna Ag",
+    "manufacturername": "Embraer S.a.",
+    "serialnumber": "50500068",
+    "nof": 23,
+    "onwer_type": "private",
+    "owner_country": "Switzerland"
+  },
+  {
+    "icao": "49522a",
+    "owner": "Aviation Horizon",
+    "manufacturername": "Airbus",
+    "serialnumber": "2675",
+    "nof": 12,
+    "onwer_type": "charter",
+    "owner_country": "Saudi Arabia"
+  },
+  {
+    "icao": "4d029f",
+    "owner": "Luxaviation Sa",
+    "manufacturername": "Bombardier",
+    "serialnumber": "20403",
+    "nof": 8,
+    "onwer_type": "charter",
+    "owner_country": "Luxembourg"
+  },
+  {
+    "icao": "750156",
+    "owner": "Jet Premier One (m) Sdn. Bhd.",
+    "manufacturername": "Airbus",
+    "serialnumber": "2949",
+    "nof": 1,
+    "onwer_type": "charter/management",
+    "owner_country": "Malaysia"
+  },
+  {
+    "icao": "ac39e3",
+    "owner": "International Paper Co",
+    "manufacturername": "Dassault Aviation",
+    "serialnumber": "150",
+    "nof": 0,
+    "onwer_type": "paper company",
+    "owner_country": "USA"
+  },
+  {
+    "icao": "4d0231",
+    "owner": "Global Jet Luxembourg Sa",
+    "manufacturername": "Dassault",
+    "serialnumber": "197",
+    "nof": 12,
+    "onwer_type": "charter/management",
+    "owner_country": "Luxembourg"
+  },
+  {
+    "icao": "494105",
+    "owner": "Netjets Europe",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500252",
+    "nof": 27,
+    "onwer_type": "charter",
+    "owner_country": "Portugal"
+  },
+  {
+    "icao": "494102",
+    "owner": "Netjets Europe",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500209",
+    "nof": 39,
+    "onwer_type": "charter",
+    "owner_country": "Portugal"
+  },
+  {
+    "icao": "fa0001",
+    "owner": "Government Of Venezuela",
+    "manufacturername": "Airbus",
+    "serialnumber": "1468",
+    "nof": 1,
+    "onwer_type": "government",
+    "owner_country": "Venezuela"
+  },
+  {
+    "icao": "4d020f",
+    "owner": "Global Jet Luxembourg Sa",
+    "manufacturername": "Airbus",
+    "serialnumber": "3542",
+    "nof": 14,
+    "onwer_type": "charter/management",
+    "owner_country": "Luxembourg"
+  },
+  {
+    "icao": "424254",
+    "owner": "Ef Education",
+    "manufacturername": "Dassault",
+    "serialnumber": "21",
+    "nof": 0,
+    "onwer_type": "education",
+    "owner_country": "Switzerland"
+  },
+  {
+    "icao": "a0c931",
+    "owner": "Spx Flow Inc",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9382",
+    "nof": 0,
+    "onwer_type": "pumping equipment",
+    "owner_country": "USA"
+  },
+  {
+    "icao": "42426e",
+    "owner": "Sirius Aero",
+    "manufacturername": "Embraer",
+    "serialnumber": "14501048",
+    "nof": 2,
+    "onwer_type": "charter",
+    "owner_country": "Russia"
+  },
+  {
+    "icao": "4d0230",
+    "owner": "Global Jet Luxembourg Sa",
+    "manufacturername": "Dassault",
+    "serialnumber": "118",
+    "nof": 3,
+    "onwer_type": "charter/management",
+    "owner_country": "Luxembourg"
+  },
+  {
+    "icao": "405f91",
+    "owner": "Saxonair Charter Ltd",
+    "manufacturername": "Hawker Beechcraft Corporation",
+    "serialnumber": "HB-14",
+    "nof": 11,
+    "onwer_type": "charter/management",
+    "owner_country": "UK"
+  },
+  {
+    "icao": "48ada4",
+    "owner": "Lot Polish Airlines",
+    "manufacturername": "Embraer",
+    "serialnumber": "19000583",
+    "nof": 60,
+    "onwer_type": "public",
+    "owner_country": "Poland"
+  },
+  {
+    "icao": "4241cd",
+    "owner": "Volkswagen Ag",
+    "manufacturername": "Dassault",
+    "serialnumber": "143",
+    "nof": 11,
+    "onwer_type": "automotive manufacturing company",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "4068c0",
+    "owner": "Gama Aviation",
+    "manufacturername": "Bombardier",
+    "serialnumber": "5904",
+    "nof": 6,
+    "onwer_type": "charter/management",
+    "owner_country": "UK"
+  },
+  {
+    "icao": "4d20cc",
+    "owner": "Comlux Malta Ltd",
+    "manufacturername": "Bombardier",
+    "serialnumber": "5958",
+    "nof": 10,
+    "onwer_type": "Aerospace Products & Parts Manufacturing",
+    "owner_country": "Malta"
+  },
+  {
+    "icao": "43e96b",
+    "owner": "The World Is Yours Ltd",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9597",
+    "nof": 5,
+    "onwer_type": "charter ",
+    "owner_country": "UK"
+  },
+  {
+    "icao": "3c942d",
+    "owner": "Jet Pool Network Luftverkehrs Gmbh",
+    "manufacturername": "Bombardier",
+    "serialnumber": "20452",
+    "nof": 16,
+    "onwer_type": "charter ",
+    "owner_country": "Austria"
+  },
+  {
+    "icao": "3c564f",
+    "owner": "Air Hamburg Gmbh",
+    "manufacturername": "Embraer",
+    "serialnumber": "14501216",
+    "nof": 31,
+    "onwer_type": "charter",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "400068",
+    "owner": "Aravco",
+    "manufacturername": "Airbus",
+    "serialnumber": "2421",
+    "nof": 4,
+    "onwer_type": "charter/management",
+    "owner_country": "unknown"
+  },
+  {
+    "icao": "3c70b8",
+    "owner": "K5-aviation Gmbh",
+    "manufacturername": "Airbus",
+    "serialnumber": "5963",
+    "nof": 11,
+    "onwer_type": "charter",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "e48fde",
+    "owner": "Confederacao Nacional Do Transporte",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500145",
+    "nof": 1,
+    "onwer_type": "transport company",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "43e92f",
+    "owner": "Corporate",
+    "manufacturername": "Airbus",
+    "serialnumber": "4650",
+    "nof": 1,
+    "onwer_type": "unknown",
+    "owner_country": "unknown"
+  },
+  {
+    "icao": "49526c",
+    "owner": "Executive Jet Management (europe)",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9231",
+    "nof": 3,
+    "onwer_type": "charter",
+    "owner_country": "Switzerland"
+  },
+  {
+    "icao": "896012",
+    "owner": "Dana Executive Jets",
+    "manufacturername": "Airbus",
+    "serialnumber": "1599",
+    "nof": 0,
+    "onwer_type": "charter",
+    "owner_country": "UAE"
+  },
+  {
+    "icao": "39a431",
+    "owner": "Casam",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500278",
+    "nof": 6,
+    "onwer_type": "unknown",
+    "owner_country": "unknown"
+  },
+  {
+    "icao": "e48fd2",
+    "owner": "Lavoura E Pecuaria Igarashi Ltda",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500213",
+    "nof": 1,
+    "onwer_type": "Food production",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "4d4025",
+    "owner": "Monaco Royal Family",
+    "manufacturername": "Dassault",
+    "serialnumber": "200",
+    "nof": 8,
+    "onwer_type": "person",
+    "owner_country": "Monaco Royal Family"
+  },
+  {
+    "icao": "3cdd18",
+    "owner": "Liebherr Aerospace Gmbh",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500108",
+    "nof": 14,
+    "onwer_type": "aerospace manufacturer",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "39a1e4",
+    "owner": "Pan Europeenne Air Service",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500016",
+    "nof": 21,
+    "onwer_type": "charter",
+    "owner_country": "France"
+  },
+  {
+    "icao": "4badb2",
+    "owner": "Setair",
+    "manufacturername": "Dassault",
+    "serialnumber": "254",
+    "nof": 2,
+    "onwer_type": "charter",
+    "owner_country": "Turkey"
+  },
+  {
+    "icao": "e49124",
+    "owner": "Amaggi Exportacao E Importacao Ltda",
+    "manufacturername": "Cessna",
+    "serialnumber": "680-0537",
+    "nof": 0,
+    "onwer_type": "soybean export company",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "e48c80",
+    "owner": "Pure Fo Investments Ltd",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500121",
+    "nof": 2,
+    "onwer_type": "private company",
+    "owner_country": "UK"
+  },
+  {
+    "icao": "4b19aa",
+    "owner": "Emisum Investments Ag",
+    "manufacturername": "Dassault Aviation",
+    "serialnumber": "002",
+    "nof": 6,
+    "onwer_type": "private company",
+    "owner_country": "Switzerland"
+  },
+  {
+    "icao": "4d20bd",
+    "owner": "Avcon Jet Malta Ltd",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9578",
+    "nof": 2,
+    "onwer_type": "charter",
+    "owner_country": "Malta"
+  },
+  {
+    "icao": "491291",
+    "owner": "Everjets",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500083",
+    "nof": 26,
+    "onwer_type": "charter",
+    "owner_country": "Portugal"
+  },
+  {
+    "icao": "484344",
+    "owner": "Ukraine Air Enterprise",
+    "manufacturername": "Airbus",
+    "serialnumber": "4319",
+    "nof": 8,
+    "onwer_type": "public airline",
+    "owner_country": "Ukraine"
+  },
+  {
+    "icao": "4b1873",
+    "owner": "Robert Bosch Gmbh",
+    "manufacturername": "Bombardier",
+    "serialnumber": "5736",
+    "nof": 45,
+    "onwer_type": "engineering and technology",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "780955",
+    "owner": "Deer Jet Beijing",
+    "manufacturername": "Airbus",
+    "serialnumber": "4428",
+    "nof": 4,
+    "onwer_type": "charter/management",
+    "owner_country": "China"
+  },
+  {
+    "icao": "4b84c6",
+    "owner": "Mng Jet",
+    "manufacturername": "Bombardier",
+    "serialnumber": "20126",
+    "nof": 6,
+    "onwer_type": "aircraft maintenance/training",
+    "owner_country": "Turkey"
+  },
+  {
+    "icao": "e4865b",
+    "owner": "Lider Taxi Aereo Sa",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500014",
+    "nof": 1,
+    "onwer_type": "charter",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "e490a5",
+    "owner": "J Malucelli Seguradora Sa",
+    "manufacturername": "Cessna",
+    "serialnumber": "680-0534",
+    "nof": 3,
+    "onwer_type": "insurance company",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "43e78f",
+    "owner": "Tetran Assets Ltd",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9453",
+    "nof": 1,
+    "onwer_type": "private company",
+    "owner_country": "British Virgin Islands"
+  },
+  {
+    "icao": "4b3944",
+    "owner": "Air-connect International Ag",
+    "manufacturername": "Embraer S.a.",
+    "serialnumber": "50500308",
+    "nof": 5,
+    "onwer_type": "charter",
+    "owner_country": "Switzerland"
+  },
+  {
+    "icao": "43e945",
+    "owner": "Executive Aircraft Services",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9461",
+    "nof": 3,
+    "onwer_type": "charter",
+    "owner_country": "Switzerland"
+  },
+  {
+    "icao": "43e8b1",
+    "owner": "Execujet Uk Ltd",
+    "manufacturername": "Dassault",
+    "serialnumber": "110",
+    "nof": 2,
+    "onwer_type": "charter",
+    "owner_country": "Switzerland"
+  },
+  {
+    "icao": "463aff",
+    "owner": "Jetflite Oy",
+    "manufacturername": "Dassault",
+    "serialnumber": "231",
+    "nof": 0,
+    "onwer_type": "charter",
+    "owner_country": "Finland"
+  },
+  {
+    "icao": "e490a2",
+    "owner": "Expressa Dist De Medicamentos Ltda",
+    "manufacturername": "Dassault",
+    "serialnumber": "167",
+    "nof": 2,
+    "onwer_type": "pharmaceutical company",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "3cc187",
+    "owner": "Aerowest Flugcharter Gmbh",
+    "manufacturername": "Cessna",
+    "serialnumber": "560-0806",
+    "nof": 24,
+    "onwer_type": "charter",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "ab256a",
+    "owner": "Tp Aviation Llc",
+    "manufacturername": "Dassault Aviation",
+    "serialnumber": "208",
+    "nof": 4,
+    "onwer_type": "wholesale & machinery equipement company",
+    "owner_country": "Denmark"
+  },
+  {
+    "icao": "48434c",
+    "owner": "Global Jet Luxembourg Sa",
+    "manufacturername": "Airbus",
+    "serialnumber": "5445",
+    "nof": 1,
+    "onwer_type": "charter/management",
+    "owner_country": "Luxembourg"
+  },
+  {
+    "icao": "491264",
+    "owner": "Executive Jet Management (europe)",
+    "manufacturername": "Dassault",
+    "serialnumber": "92",
+    "nof": 4,
+    "onwer_type": "charter",
+    "owner_country": "Switzerland"
+  },
+  {
+    "icao": "4d0210",
+    "owner": "Global Jet Luxembourg Sa",
+    "manufacturername": "Cessna",
+    "serialnumber": "525C0174",
+    "nof": 14,
+    "onwer_type": "charter/management",
+    "owner_country": "Luxembourg"
+  },
+  {
+    "icao": "506c1f",
+    "owner": "Elitavia",
+    "manufacturername": "Bombardier",
+    "serialnumber": "20236",
+    "nof": 2,
+    "onwer_type": "charter/management",
+    "owner_country": "Slovenia"
+  },
+  {
+    "icao": "484d02",
+    "owner": "Flying Service Nv",
+    "manufacturername": "Dassault",
+    "serialnumber": "102",
+    "nof": 4,
+    "onwer_type": "airport services",
+    "owner_country": "Belgium"
+  },
+  {
+    "icao": "e48a49",
+    "owner": "Aeromil Taxi Aereo Ltda",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500072",
+    "nof": 1,
+    "onwer_type": "private company",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "43e927",
+    "owner": "Poseidon Finance Ltd",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500087",
+    "nof": 1,
+    "onwer_type": "asset management",
+    "owner_country": "China"
+  },
+  {
+    "icao": "4242fb",
+    "owner": "Execujet Middle East",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9204",
+    "nof": 6,
+    "onwer_type": "charter",
+    "owner_country": "Switzerland"
+  },
+  {
+    "icao": "3cc1c8",
+    "owner": "Aerowest Flugcharter Gmbh",
+    "manufacturername": "Cessna",
+    "serialnumber": "680-0514",
+    "nof": 32,
+    "onwer_type": "charter",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "424955",
+    "owner": "Shell Aviation Ltd",
+    "manufacturername": "Dassault",
+    "serialnumber": "83",
+    "nof": 8,
+    "onwer_type": "wholesale company",
+    "owner_country": "UK"
+  },
+  {
+    "icao": "485171",
+    "owner": "Flying Service Nv",
+    "manufacturername": "Dassault",
+    "serialnumber": "259",
+    "nof": 10,
+    "onwer_type": "airport services",
+    "owner_country": "Belgium"
+  },
+  {
+    "icao": "e4923f",
+    "owner": "Zmf Participacoes Ltda",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500291",
+    "nof": 0,
+    "onwer_type": "company",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "4b18ec",
+    "owner": "Radial Crest Ltd.",
+    "manufacturername": "Dassault Aviation",
+    "serialnumber": "044",
+    "nof": 7,
+    "onwer_type": "unknown",
+    "owner_country": "unknown"
+  },
+  {
+    "icao": "e8095a",
+    "owner": "Servicios Aereos Acf Aviacion Ltda",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500253",
+    "nof": 0,
+    "onwer_type": "charter",
+    "owner_country": "Chile"
+  },
+  {
+    "icao": "4b1990",
+    "owner": "Albinati Aeronautics Sa",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9174",
+    "nof": 3,
+    "onwer_type": "charter/management",
+    "owner_country": "Switzerland"
+  },
+  {
+    "icao": "4d203d",
+    "owner": "Comlux Malta Ltd",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9249",
+    "nof": 1,
+    "onwer_type": "Aerospace Products & Parts Manufacturing",
+    "owner_country": "Malta"
+  },
+  {
+    "icao": "424194",
+    "owner": "Hamza Al Kholi",
+    "manufacturername": "Airbus",
+    "serialnumber": "3530",
+    "nof": 0,
+    "onwer_type": "person",
+    "owner_country": "Saudi Arabia"
+  },
+  {
+    "icao": "ac6ffb",
+    "owner": "Elmet 7x Inc",
+    "manufacturername": "Dassault",
+    "serialnumber": "115",
+    "nof": 0,
+    "onwer_type": "charter",
+    "owner_country": "US"
+  },
+  {
+    "icao": "424158",
+    "owner": "Metrojet Ltd",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9321",
+    "nof": 7,
+    "onwer_type": "charter/management",
+    "owner_country": "Hong-Kong"
+  },
+  {
+    "icao": "4850da",
+    "owner": "Cartier Europe Bv",
+    "manufacturername": "Cessna",
+    "serialnumber": "680-0531",
+    "nof": 18,
+    "onwer_type": "private company",
+    "owner_country": "Netherlands"
+  },
+  {
+    "icao": "43ea48",
+    "owner": "Avcon Jet Ag",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9639",
+    "nof": 7,
+    "onwer_type": "charter",
+    "owner_country": "Austria"
+  },
+  {
+    "icao": "43e9e3",
+    "owner": "Sleepwell Aviation Ltd",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500197",
+    "nof": 2,
+    "onwer_type": "hospitality company",
+    "owner_country": "UK"
+  },
+  {
+    "icao": "39c812",
+    "owner": "Unijet Sa",
+    "manufacturername": "Dassault",
+    "serialnumber": "119",
+    "nof": 2,
+    "onwer_type": "transportation & logistics company",
+    "owner_country": "France"
+  },
+  {
+    "icao": "020106",
+    "owner": "Ctta",
+    "manufacturername": "Bombardier",
+    "serialnumber": "20405",
+    "nof": 1,
+    "onwer_type": "unknown",
+    "owner_country": "unknown"
+  },
+  {
+    "icao": "43e9e4",
+    "owner": "Prime Aviation Jsc",
+    "manufacturername": "Airbus",
+    "serialnumber": "6069",
+    "nof": 2,
+    "onwer_type": "private company",
+    "owner_country": "Kazakhstan"
+  },
+  {
+    "icao": "a01b65",
+    "owner": "Aurogold Aviation Inc Trustee",
+    "manufacturername": "Embraer",
+    "serialnumber": "14501106",
+    "nof": 1,
+    "onwer_type": "trustee",
+    "owner_country": "USA"
+  },
+  {
+    "icao": "424134",
+    "owner": "Volkswagen Ag",
+    "manufacturername": "Dassault",
+    "serialnumber": "210",
+    "nof": 8,
+    "onwer_type": "automotive manufacturing company",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "459563",
+    "owner": "Air Alsie",
+    "manufacturername": "Dassault",
+    "serialnumber": "121",
+    "nof": 7,
+    "onwer_type": "charter",
+    "owner_country": "Danmark"
+  },
+  {
+    "icao": "3cef8e",
+    "owner": "Acm Air Charter Gmbh",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500101",
+    "nof": 21,
+    "onwer_type": "charter",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "43e9f5",
+    "owner": "Vts Sp Zoo",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500206",
+    "nof": 1,
+    "onwer_type": "HVAC company",
+    "owner_country": "Poland"
+  },
+  {
+    "icao": "a2af26",
+    "owner": "Embraer Executive Aircraft Inc",
+    "manufacturername": "Embraer-empresa Brasileira De",
+    "serialnumber": "50500272",
+    "nof": 26,
+    "onwer_type": "aviation company",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "451d85",
+    "owner": "Bulgaria Air",
+    "manufacturername": "Embraer",
+    "serialnumber": "19000492",
+    "nof": 70,
+    "onwer_type": "public ",
+    "owner_country": "Bulgaria"
+  },
+  {
+    "icao": "448443",
+    "owner": "Flying Service Nv",
+    "manufacturername": "Dassault",
+    "serialnumber": "166",
+    "nof": 3,
+    "onwer_type": "airport services",
+    "owner_country": "Belgium"
+  },
+  {
+    "icao": "a1ef89",
+    "owner": "Uaml Corp",
+    "manufacturername": "Dassault Aviation",
+    "serialnumber": "241",
+    "nof": 6,
+    "onwer_type": "airline company",
+    "owner_country": "USA"
+  },
+  {
+    "icao": "3cce74",
+    "owner": "Nayak Aircraft Service Gmbh",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500058",
+    "nof": 2,
+    "onwer_type": "maintenance",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "e48ce3",
+    "owner": "Confederal Vigilancia De Transporte De Valores Ltda",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500110",
+    "nof": 3,
+    "onwer_type": "transport company",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "424954",
+    "owner": "Shell Aviation Ltd",
+    "manufacturername": "Dassault",
+    "serialnumber": "64",
+    "nof": 6,
+    "onwer_type": "wholesale company",
+    "owner_country": "UK"
+  },
+  {
+    "icao": "4b1998",
+    "owner": "Tag Aviation Sa",
+    "manufacturername": "Dassault",
+    "serialnumber": "161",
+    "nof": 0,
+    "onwer_type": "charter/maintenance",
+    "owner_country": "Switzerland"
+  },
+  {
+    "icao": "a7db18",
+    "owner": "Tvpx Ars Inc Trustee",
+    "manufacturername": "Bombardier Inc",
+    "serialnumber": "5753",
+    "nof": 2,
+    "onwer_type": "trustee",
+    "owner_country": "USA"
+  },
+  {
+    "icao": "424953",
+    "owner": "Shell Aviation Ltd",
+    "manufacturername": "Dassault",
+    "serialnumber": "58",
+    "nof": 17,
+    "onwer_type": "wholesale company",
+    "owner_country": "UK"
+  },
+  {
+    "icao": "3c4c85",
+    "owner": "Dc Aviation",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9405",
+    "nof": 4,
+    "onwer_type": "charter/management",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "3c9579",
+    "owner": "Basf Ag",
+    "manufacturername": "Dassault",
+    "serialnumber": "201",
+    "nof": 18,
+    "onwer_type": "chemical campany",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "a5ec5c",
+    "owner": "Ravencrest Llc",
+    "manufacturername": "Cessna",
+    "serialnumber": "525C0029",
+    "nof": 11,
+    "onwer_type": "unknown",
+    "owner_country": "unknown"
+  },
+  {
+    "icao": "a031d1",
+    "owner": "Skyline Aeronautical Services Llc",
+    "manufacturername": "Beech",
+    "serialnumber": "TC-2081",
+    "nof": 8,
+    "onwer_type": "transportation company",
+    "owner_country": "Puerto Rico"
+  },
+  {
+    "icao": "3cfafb",
+    "owner": "Wirtgen Gmbh",
+    "manufacturername": "Cessna",
+    "serialnumber": "525C0124",
+    "nof": 14,
+    "onwer_type": "construction machinery company",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "3cd3ab",
+    "owner": "Black Horse Jets Gmbh",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500066",
+    "nof": 5,
+    "onwer_type": "public airline",
+    "owner_country": "Belarus"
+  },
+  {
+    "icao": "43e9f3",
+    "owner": "Gmk Consulting",
+    "manufacturername": "Dassault",
+    "serialnumber": "183",
+    "nof": 6,
+    "onwer_type": "business advisoring company",
+    "owner_country": "Honolulu"
+  },
+  {
+    "icao": "49302d",
+    "owner": "Executive Jet Management (europe)",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9602",
+    "nof": 8,
+    "onwer_type": "charter",
+    "owner_country": "Switzerland"
+  },
+  {
+    "icao": "43e86b",
+    "owner": "Armad Ltd",
+    "manufacturername": "Dassault",
+    "serialnumber": "11",
+    "nof": 1,
+    "onwer_type": "private company",
+    "owner_country": "UK"
+  },
+  {
+    "icao": "42496e",
+    "owner": "Planair",
+    "manufacturername": "Dassault",
+    "serialnumber": "93",
+    "nof": 0,
+    "onwer_type": "sustainable energy company",
+    "owner_country": "France"
+  },
+  {
+    "icao": "a40d92",
+    "owner": "City Electric Supply",
+    "manufacturername": "Bombardier",
+    "serialnumber": "20202",
+    "nof": 0,
+    "onwer_type": "electrical wholesale company",
+    "owner_country": "Belgium"
+  },
+  {
+    "icao": "39a4a6",
+    "owner": "Gdp Vendome Sarl",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500099",
+    "nof": 3,
+    "onwer_type": "private investment company",
+    "owner_country": "Belgium"
+  },
+  {
+    "icao": "4850d9",
+    "owner": "Cartier Europe Bv",
+    "manufacturername": "Cessna",
+    "serialnumber": "680-0525",
+    "nof": 18,
+    "onwer_type": "private company",
+    "owner_country": "Netherlands"
+  },
+  {
+    "icao": "e48ced",
+    "owner": "Grand Moinho Cearense Sa",
+    "manufacturername": "Dassault",
+    "serialnumber": "171",
+    "nof": 1,
+    "onwer_type": "flour company",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "4b1931",
+    "owner": "Adin Ag",
+    "manufacturername": "Dassault Aviation",
+    "serialnumber": "080",
+    "nof": 3,
+    "onwer_type": "private company",
+    "owner_country": "Switzerland"
+  },
+  {
+    "icao": "39996e",
+    "owner": "Ixair",
+    "manufacturername": "Cessna",
+    "serialnumber": "525C0114",
+    "nof": 5,
+    "onwer_type": "charter/management",
+    "owner_country": "France"
+  },
+  {
+    "icao": "3ced29",
+    "owner": "Rh Flugdienst Gmbh",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500069",
+    "nof": 0,
+    "onwer_type": "charter",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "896363",
+    "owner": "Rotana Jet Aviation",
+    "manufacturername": "Airbus",
+    "serialnumber": "5277",
+    "nof": 0,
+    "onwer_type": "charter",
+    "owner_country": "UAE"
+  },
+  {
+    "icao": "4ac9a1",
+    "owner": "Industriflyg",
+    "manufacturername": "Bombardier",
+    "serialnumber": "20136",
+    "nof": 0,
+    "onwer_type": "charter",
+    "owner_country": "Sweden"
+  },
+  {
+    "icao": "3c9570",
+    "owner": "Windrose Air Jetcharter Gmbh",
+    "manufacturername": "Bombardier",
+    "serialnumber": "20275",
+    "nof": 9,
+    "onwer_type": "charter/management",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "43e85c",
+    "owner": "Emperor Aviation",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9324",
+    "nof": 10,
+    "onwer_type": "aircraft management",
+    "owner_country": "Russia"
+  },
+  {
+    "icao": "440658",
+    "owner": "Porsche Air Service Gmbh",
+    "manufacturername": "Cessna Aircraft Company",
+    "serialnumber": "525C0100",
+    "nof": 25,
+    "onwer_type": "charter",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "aae43a",
+    "owner": "Emerson Electric Co",
+    "manufacturername": "Dassault Aviation",
+    "serialnumber": "25",
+    "nof": 1,
+    "onwer_type": "engineering services",
+    "owner_country": "USA"
+  },
+  {
+    "icao": "e49027",
+    "owner": "Dilene Empreendimentos Ltda",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500227",
+    "nof": 1,
+    "onwer_type": "private company",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "06a19b",
+    "owner": "Qatar Executive",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9534",
+    "nof": 3,
+    "onwer_type": "charter",
+    "owner_country": "Qatar"
+  },
+  {
+    "icao": "a904db",
+    "owner": "Hbk Limited",
+    "manufacturername": "Cessna",
+    "serialnumber": "680-0520",
+    "nof": 2,
+    "onwer_type": "repair/maintenance",
+    "owner_country": "UK"
+  },
+  {
+    "icao": "39b18b",
+    "owner": "Synair Gie",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500247",
+    "nof": 14,
+    "onwer_type": "inspection",
+    "owner_country": "France"
+  },
+  {
+    "icao": "a602cc",
+    "owner": "Sucocitrico Cutrale Sa",
+    "manufacturername": "Dassault",
+    "serialnumber": "221",
+    "nof": 2,
+    "onwer_type": "orange juice",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "a6fe0f",
+    "owner": "Lowes Companies Inc",
+    "manufacturername": "Dassault Aviation",
+    "serialnumber": "38",
+    "nof": 0,
+    "onwer_type": "retail",
+    "owner_country": "USA"
+  },
+  {
+    "icao": "e48d28",
+    "owner": "Termo Norte Energia Ltda",
+    "manufacturername": "Dassault",
+    "serialnumber": "55",
+    "nof": 2,
+    "onwer_type": "electric utilities company",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "3ce52c",
+    "owner": "Private Wings",
+    "manufacturername": "Beech",
+    "serialnumber": "UE-224",
+    "nof": 3,
+    "onwer_type": "charter",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "43e9d1",
+    "owner": "Ulla Popken Gmbh",
+    "manufacturername": "Cessna",
+    "serialnumber": "525C0132",
+    "nof": 15,
+    "onwer_type": "clothing company",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "43e822",
+    "owner": "Capital Aviation Pte Ltd",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9166",
+    "nof": 2,
+    "onwer_type": "private company",
+    "owner_country": "Singapore"
+  },
+  {
+    "icao": "020113",
+    "owner": "Royal Air Maroc",
+    "manufacturername": "Embraer",
+    "serialnumber": "19000684",
+    "nof": 59,
+    "onwer_type": "public airline",
+    "owner_country": "Marocco"
+  },
+  {
+    "icao": "e48598",
+    "owner": "Igreja Universal Do Reino De Deus",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500010",
+    "nof": 0,
+    "onwer_type": "miracle company",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "a22f57",
+    "owner": "Tvpx Ars Inc",
+    "manufacturername": "Dassault Aviation",
+    "serialnumber": "203",
+    "nof": 2,
+    "onwer_type": "trustee",
+    "owner_country": "USA"
+  },
+  {
+    "icao": "a788c6",
+    "owner": "E I Dupont De Nemours & Company",
+    "manufacturername": "Bombardier",
+    "serialnumber": "20417",
+    "nof": 0,
+    "onwer_type": "chemical company",
+    "owner_country": "USA"
+  },
+  {
+    "icao": "e48f76",
+    "owner": "Monza Negocios E Participacoes Ltda",
+    "manufacturername": "Dassault",
+    "serialnumber": "214",
+    "nof": 6,
+    "onwer_type": "management",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "4850ed",
+    "owner": "Jet Netherlands Bv",
+    "manufacturername": "Cessna",
+    "serialnumber": "680-0530",
+    "nof": 16,
+    "onwer_type": "charter/management",
+    "owner_country": "Netherlands"
+  },
+  {
+    "icao": "e48eb7",
+    "owner": "Brisair Servicos Tecnicos  Aeronauticos Ltda",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500157",
+    "nof": 5,
+    "onwer_type": "private",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "43e885",
+    "owner": "Japat Ag",
+    "manufacturername": "Dassault",
+    "serialnumber": "91",
+    "nof": 1,
+    "onwer_type": "port, harbor & marine terminal management company",
+    "owner_country": "Switzerland"
+  },
+  {
+    "icao": "43e9b3",
+    "owner": "Avtrade Ltd",
+    "manufacturername": "Cessna",
+    "serialnumber": "525C0106",
+    "nof": 5,
+    "onwer_type": "leasing/management",
+    "owner_country": "UK"
+  },
+  {
+    "icao": "a19706",
+    "owner": "Corporate",
+    "manufacturername": "Dassault",
+    "serialnumber": "216",
+    "nof": 0,
+    "onwer_type": "unknown",
+    "owner_country": "unknown"
+  },
+  {
+    "icao": "43e9da",
+    "owner": "Vl 5149 Ltd",
+    "manufacturername": "Bombardier",
+    "serialnumber": "5149",
+    "nof": 6,
+    "onwer_type": "aircraft service company",
+    "owner_country": "Bermuda"
+  },
+  {
+    "icao": "398266",
+    "owner": "Flying Faster Snc",
+    "manufacturername": "Cessna",
+    "serialnumber": "525C0115",
+    "nof": 11,
+    "onwer_type": "company",
+    "owner_country": "France"
+  },
+  {
+    "icao": "459aef",
+    "owner": "Execujet Scandinavia",
+    "manufacturername": "Dassault",
+    "serialnumber": "198",
+    "nof": 0,
+    "onwer_type": "charter",
+    "owner_country": "Switzerland"
+  },
+  {
+    "icao": "020112",
+    "owner": "Royal Air Maroc",
+    "manufacturername": "Embraer",
+    "serialnumber": "19000682",
+    "nof": 55,
+    "onwer_type": "public airline",
+    "owner_country": "Marocco"
+  },
+  {
+    "icao": "06a133",
+    "owner": "Qatar Executive",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9581",
+    "nof": 2,
+    "onwer_type": "charter",
+    "owner_country": "Qatar"
+  },
+  {
+    "icao": "4bda07",
+    "owner": "Swan Aviation",
+    "manufacturername": "Bombardier",
+    "serialnumber": "20218",
+    "nof": 4,
+    "onwer_type": "charter",
+    "owner_country": "Turkey"
+  },
+  {
+    "icao": "39066c",
+    "owner": "Institut National Des Sciences De L Univers Du Cnrs",
+    "manufacturername": "Dassault",
+    "serialnumber": "397",
+    "nof": 0,
+    "onwer_type": "mational science institut",
+    "owner_country": "France"
+  },
+  {
+    "icao": "43e9d0",
+    "owner": "Waylawn Ltd",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9172",
+    "nof": 4,
+    "onwer_type": "private company",
+    "owner_country": "British Virgin Islands"
+  },
+  {
+    "icao": "39d42b",
+    "owner": "Fleet Management Services",
+    "manufacturername": "Dassault",
+    "serialnumber": "188",
+    "nof": 5,
+    "onwer_type": "unknown",
+    "owner_country": "unknown"
+  },
+  {
+    "icao": "7100ec",
+    "owner": "Saudi Private Aviation",
+    "manufacturername": "Dassault",
+    "serialnumber": "87",
+    "nof": 5,
+    "onwer_type": "charter",
+    "owner_country": "Saudi Arabia"
+  },
+  {
+    "icao": "43ea6d",
+    "owner": "Selementos Ltd",
+    "manufacturername": "Textron Aviation",
+    "serialnumber": "525C0197",
+    "nof": 0,
+    "onwer_type": "private company",
+    "owner_country": "Island of Man"
+  },
+  {
+    "icao": "a9abc4",
+    "owner": "Clos De Berry Leasing Ltd",
+    "manufacturername": "Dassault Aviation",
+    "serialnumber": "13",
+    "nof": 0,
+    "onwer_type": "private",
+    "owner_country": "USA"
+  },
+  {
+    "icao": "43be81",
+    "owner": "Planair",
+    "manufacturername": "Airbus",
+    "serialnumber": "3073",
+    "nof": 5,
+    "onwer_type": "sustainable energy company",
+    "owner_country": "France"
+  },
+  {
+    "icao": "43e7ab",
+    "owner": "Global Jet Luxembourg Sa",
+    "manufacturername": "Airbus",
+    "serialnumber": "3856",
+    "nof": 2,
+    "onwer_type": "charter/management",
+    "owner_country": "Luxembourg"
+  },
+  {
+    "icao": "449541",
+    "owner": "Luxaviation Belgium",
+    "manufacturername": "Dassault",
+    "serialnumber": "124",
+    "nof": 5,
+    "onwer_type": "charter",
+    "owner_country": "Belgium"
+  },
+  {
+    "icao": "51006d",
+    "owner": "Belavia",
+    "manufacturername": "Embraer",
+    "serialnumber": "17000352",
+    "nof": 16,
+    "onwer_type": "unknown",
+    "owner_country": "unknown"
+  },
+  {
+    "icao": "3cdbba",
+    "owner": "Starwings Gmbh",
+    "manufacturername": "Cessna",
+    "serialnumber": "525C0108",
+    "nof": 14,
+    "onwer_type": "training",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "43ea08",
+    "owner": "Avcon Jet Ag",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9594",
+    "nof": 5,
+    "onwer_type": "charter",
+    "owner_country": "Austria"
+  },
+  {
+    "icao": "51006c",
+    "owner": "Belavia",
+    "manufacturername": "Embraer",
+    "serialnumber": "17000350",
+    "nof": 24,
+    "onwer_type": "unknown",
+    "owner_country": "unknown"
+  },
+  {
+    "icao": "4249e9",
+    "owner": "Planair",
+    "manufacturername": "Dassault",
+    "serialnumber": "132",
+    "nof": 2,
+    "onwer_type": "sustainable energy company",
+    "owner_country": "France"
+  },
+  {
+    "icao": "4d0203",
+    "owner": "Global Jet Luxembourg Sa",
+    "manufacturername": "Dassault",
+    "serialnumber": "182",
+    "nof": 18,
+    "onwer_type": "charter/management",
+    "owner_country": "Luxembourg"
+  },
+  {
+    "icao": "710223",
+    "owner": "Sky Prime Aviation",
+    "manufacturername": "Airbus",
+    "serialnumber": "3164",
+    "nof": 11,
+    "onwer_type": "charter/management",
+    "owner_country": "Saudi Arabia"
+  },
+  {
+    "icao": "484107",
+    "owner": "Global Jet Luxembourg Sa",
+    "manufacturername": "Airbus",
+    "serialnumber": "2921",
+    "nof": 6,
+    "onwer_type": "charter/management",
+    "owner_country": "Luxembourg"
+  },
+  {
+    "icao": "440785",
+    "owner": "Speedwings Executive Jet Gmbh",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500062",
+    "nof": 23,
+    "onwer_type": "charter",
+    "owner_country": "Austria"
+  },
+  {
+    "icao": "3cdd32",
+    "owner": "Liebherr Aerospace Gmbh",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500173",
+    "nof": 7,
+    "onwer_type": "aerospace manufacturer",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "e47e71",
+    "owner": "Pr-sad Administracao De Bem Proprio Sa",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500220",
+    "nof": 8,
+    "onwer_type": "private company",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "a1e06c",
+    "owner": "Cj4 Fpl Inc Trustee",
+    "manufacturername": "Cessna",
+    "serialnumber": "525C0182",
+    "nof": 15,
+    "onwer_type": "trustee",
+    "owner_country": "USA"
+  },
+  {
+    "icao": "3cd34e",
+    "owner": "Air Hamburg Gmbh",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500096",
+    "nof": 48,
+    "onwer_type": "charter",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "42460d",
+    "owner": "Planair",
+    "manufacturername": "Dassault",
+    "serialnumber": "135",
+    "nof": 2,
+    "onwer_type": "sustainable energy company",
+    "owner_country": "France"
+  },
+  {
+    "icao": "43e994",
+    "owner": "Ven Air",
+    "manufacturername": "Dassault",
+    "serialnumber": "178",
+    "nof": 0,
+    "onwer_type": "silicon manufacturing company",
+    "owner_country": "USA"
+  },
+  {
+    "icao": "e48e64",
+    "owner": "Arcom Sa",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500160",
+    "nof": 2,
+    "onwer_type": "private company",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "494107",
+    "owner": "Netjets Europe",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500264",
+    "nof": 41,
+    "onwer_type": "charter",
+    "owner_country": "Portugal"
+  },
+  {
+    "icao": "e48dfe",
+    "owner": "Tropic Air Taxi Aereo",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500137",
+    "nof": 2,
+    "onwer_type": "charter",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "43e956",
+    "owner": "Herrenknecht Aviation Gmbh",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500116",
+    "nof": 13,
+    "onwer_type": "charter/management",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "06a1b5",
+    "owner": null,
+    "manufacturername": "Bombardier (canadair)",
+    "serialnumber": "5508",
+    "nof": 0,
+    "onwer_type": "unknown",
+    "owner_country": "unknown"
+  },
+  {
+    "icao": "458d93",
+    "owner": "Air Alsie",
+    "manufacturername": "Dassault",
+    "serialnumber": "155",
+    "nof": 12,
+    "onwer_type": "charter",
+    "owner_country": "Danmark"
+  },
+  {
+    "icao": "399438",
+    "owner": "Challenger Luxembourg Sa",
+    "manufacturername": "Bombardier",
+    "serialnumber": "9188",
+    "nof": 3,
+    "onwer_type": "private company",
+    "owner_country": "Luxembourg"
+  },
+  {
+    "icao": "3ccb16",
+    "owner": "E-aviation",
+    "manufacturername": "Cessna",
+    "serialnumber": "525C0177",
+    "nof": 42,
+    "onwer_type": "charter",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "71c080",
+    "owner": "Sk Telecomm",
+    "manufacturername": "Airbus",
+    "serialnumber": "5768",
+    "nof": 5,
+    "onwer_type": "telecommunication company",
+    "owner_country": "South Korea"
+  },
+  {
+    "icao": "e48e6b",
+    "owner": "Conedi Participacoes Ltda",
+    "manufacturername": "Bombardier",
+    "serialnumber": "20394",
+    "nof": 5,
+    "onwer_type": "commercial estate company",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "e48e07",
+    "owner": "Mpe Sa Partipicoes E Administracao",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500136",
+    "nof": 0,
+    "onwer_type": "management",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "896269",
+    "owner": "Al Jaber Aviation",
+    "manufacturername": "Airbus",
+    "serialnumber": "3985",
+    "nof": 4,
+    "onwer_type": "charter",
+    "owner_country": "UAE"
+  },
+  {
+    "icao": "06a014",
+    "owner": "Qatar Executive",
+    "manufacturername": "Airbus",
+    "serialnumber": "1335",
+    "nof": 1,
+    "onwer_type": "charter",
+    "owner_country": "Qatar"
+  },
+  {
+    "icao": "738484",
+    "owner": "Arkia",
+    "manufacturername": "Embraer",
+    "serialnumber": "19000616",
+    "nof": 33,
+    "onwer_type": "public",
+    "owner_country": "TelAviv"
+  },
+  {
+    "icao": "3cc790",
+    "owner": "Mhs Aviation Gmbh",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500232",
+    "nof": 10,
+    "onwer_type": "charter",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "896063",
+    "owner": "Sharjah Rulers Flight",
+    "manufacturername": "Airbus",
+    "serialnumber": "910",
+    "nof": 4,
+    "onwer_type": "charter",
+    "owner_country": "UAE"
+  },
+  {
+    "icao": "ad36b4",
+    "owner": "Tp Aviation Ii Llc",
+    "manufacturername": "Dassault Aviation",
+    "serialnumber": "131",
+    "nof": 3,
+    "onwer_type": "wholesale & machinery equipement company",
+    "owner_country": "Denmark"
+  },
+  {
+    "icao": "494101",
+    "owner": "Netjets Europe",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500203",
+    "nof": 29,
+    "onwer_type": "charter",
+    "owner_country": "Portugal"
+  },
+  {
+    "icao": "4b1868",
+    "owner": "Rabbit-air Ag",
+    "manufacturername": "Dassault Aviation",
+    "serialnumber": "67",
+    "nof": 7,
+    "onwer_type": "pilot training",
+    "owner_country": "Switzerland"
+  },
+  {
+    "icao": "3cd32a",
+    "owner": "Hansgrohe Gmbh",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500150",
+    "nof": 17,
+    "onwer_type": "bathroon/kitchen company",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "3cc2eb",
+    "owner": "Aero-dienst",
+    "manufacturername": "Cessna",
+    "serialnumber": "525C0093",
+    "nof": 11,
+    "onwer_type": "maintenance",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "494106",
+    "owner": "Netjets Europe",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500260",
+    "nof": 47,
+    "onwer_type": "charter",
+    "owner_country": "Portugal"
+  },
+  {
+    "icao": "4068f0",
+    "owner": "London Executive Aviation",
+    "manufacturername": "Embraer Sa",
+    "serialnumber": "50500134",
+    "nof": 20,
+    "onwer_type": "charter/management",
+    "owner_country": "UK"
+  },
+  {
+    "icao": "e48e3f",
+    "owner": "Agropastoril Fazenda Caramuru Ltda",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500140",
+    "nof": 2,
+    "onwer_type": "private",
+    "owner_country": "Brazil"
+  },
+  {
+    "icao": "494108",
+    "owner": "Netjets Europe",
+    "manufacturername": "Embraer",
+    "serialnumber": "50500270",
+    "nof": 45,
+    "onwer_type": "charter",
+    "owner_country": "Portugal"
+  },
+  {
+    "icao": "4241c9",
+    "owner": "Maz Aviation",
+    "manufacturername": "Airbus",
+    "serialnumber": "3356",
+    "nof": 4,
+    "onwer_type": "charter",
+    "owner_country": "Saudi Arabia"
+  },
+  {
+    "icao": "300440",
+    "owner": "Eurofly Service Spa",
+    "manufacturername": "Dassault",
+    "serialnumber": "94",
+    "nof": 10,
+    "onwer_type": "charter",
+    "owner_country": "Italy"
+  },
+  {
+    "icao": "3c7318",
+    "owner": "K5-aviation Gmbh",
+    "manufacturername": "Airbus",
+    "serialnumber": "4470",
+    "nof": 0,
+    "onwer_type": "charter",
+    "owner_country": "Germany"
+  },
+  {
+    "icao": "43e992",
+    "owner": "Multibird Overseas Limited",
+    "manufacturername": "Bombardier",
+    "serialnumber": "5914",
+    "nof": 5,
+    "onwer_type": "private",
+    "owner_country": "British Virgin Islands"
+  },
+  {
+    "icao": "ad32d9",
+    "owner": "Jet Air Inc Trustee",
+    "manufacturername": "Cessna",
+    "serialnumber": "525C0088",
+    "nof": 8,
+    "onwer_type": "charter/management",
+    "owner_country": "USA"
+  },
+  {
+    "icao": "710247",
+    "owner": "Alpha Star Aviation",
+    "manufacturername": "Airbus",
+    "serialnumber": "2910",
+    "nof": 17,
+    "onwer_type": "charter ",
+    "owner_country": "Saudi Arabia"
+  },
+  {
+    "icao": "4b390b",
+    "owner": "Family Airline Sa",
+    "manufacturername": "Embraer S.a.",
+    "serialnumber": "50500195",
+    "nof": 15,
+    "onwer_type": "charter",
+    "owner_country": "Switzerland"
+  }
+]
