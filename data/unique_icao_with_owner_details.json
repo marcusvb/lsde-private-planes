@@ -292,7 +292,7 @@
     "owner": "Switchback Argentina Llc",
     "manufacturername": "Cessna",
     "serialnumber": "525C0053",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "charter",
     "owner_country": "Argentina"
   },
@@ -301,7 +301,7 @@
     "owner": "Swan Aviation",
     "manufacturername": "Dassault",
     "serialnumber": "225",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "charter",
     "owner_country": "Turkey"
   },
@@ -310,7 +310,7 @@
     "owner": "Servicios Aereos Across",
     "manufacturername": "Cessna",
     "serialnumber": "680-0050",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "charter",
     "owner_country": "Mexico"
   },
@@ -319,7 +319,7 @@
     "owner": "Michael Ashcroft",
     "manufacturername": "Dassault",
     "serialnumber": "14",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "Michael Ashcroft",
     "owner_country": "UK"
   },
@@ -364,7 +364,7 @@
     "owner": "Ovd Importadora E Distribuidora Ltda",
     "manufacturername": "Embraer",
     "serialnumber": "50500055",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "Tools",
     "owner_country": "Brazil"
   },
@@ -454,7 +454,7 @@
     "owner": "Bajaj Auto Ltd",
     "manufacturername": "Bombardier",
     "serialnumber": "9149",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "charter",
     "owner_country": "India"
   },
@@ -490,7 +490,7 @@
     "owner": "Transportes Aereos Mexiquenses Sa De Cv",
     "manufacturername": "Dassault",
     "serialnumber": "252",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "charter",
     "owner_country": "Mexico"
   },
@@ -670,7 +670,7 @@
     "owner": "Jet Aviation Flight Services Inc",
     "manufacturername": "Bombardier",
     "serialnumber": "9613",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "charter/management",
     "owner_country": "USA"
   },
@@ -742,7 +742,7 @@
     "owner": "Industriflyg",
     "manufacturername": "Dassault",
     "serialnumber": "40",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "charter",
     "owner_country": "Sweden"
   },
@@ -751,7 +751,7 @@
     "owner": "Eletrocal Industria E Comercio De Materiais Eletricos Ltda",
     "manufacturername": "Cessna",
     "serialnumber": "525C0056",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "electrical material trading company",
     "owner_country": "Brazil"
   },
@@ -814,7 +814,7 @@
     "owner": "Fujairah Aviation Centre",
     "manufacturername": "Dassault",
     "serialnumber": "407",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "aircraft maintenance/training",
     "owner_country": "UAE"
   },
@@ -904,7 +904,7 @@
     "owner": "Exelon Business Services Company Llc",
     "manufacturername": "Dassault Aviation",
     "serialnumber": "211",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "energy services",
     "owner_country": "USA"
   },
@@ -913,7 +913,7 @@
     "owner": "Cb Air Taxi Aereo",
     "manufacturername": "Embraer",
     "serialnumber": "14501188",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "charter",
     "owner_country": "Brazil"
   },
@@ -922,7 +922,7 @@
     "owner": "Poet Inc",
     "manufacturername": "Cessna",
     "serialnumber": "525C0007",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "sustainabe energy company",
     "owner_country": "USA"
   },
@@ -931,7 +931,7 @@
     "owner": "Pp-lgd Administracao De Bem Proprio Sa",
     "manufacturername": "Embraer",
     "serialnumber": "50500052",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "private company",
     "owner_country": "Brazil"
   },
@@ -940,7 +940,7 @@
     "owner": "Hayat Air",
     "manufacturername": "Dassault",
     "serialnumber": "09",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "HVAC company",
     "owner_country": "India"
   },
@@ -949,7 +949,7 @@
     "owner": "Brit Aero",
     "manufacturername": "Embraer",
     "serialnumber": "50500304",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "aviation consulting",
     "owner_country": "UK"
   },
@@ -967,7 +967,7 @@
     "owner": "Tag Aviation Asia",
     "manufacturername": "Bombardier",
     "serialnumber": "9998",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "charter/maintenance",
     "owner_country": "Hong Kong"
   },
@@ -1012,7 +1012,7 @@
     "owner": "Sapetro Aviation Ltd",
     "manufacturername": "Bombardier",
     "serialnumber": "9668",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "oil & gas company",
     "owner_country": "Nigeria"
   },
@@ -1165,7 +1165,7 @@
     "owner": "Dassault Aviation",
     "manufacturername": "Dassault",
     "serialnumber": "28",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "aviation company",
     "owner_country": "French"
   },
@@ -1264,7 +1264,7 @@
     "owner": "International Paper Co",
     "manufacturername": "Dassault Aviation",
     "serialnumber": "150",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "paper company",
     "owner_country": "USA"
   },
@@ -1318,7 +1318,7 @@
     "owner": "Ef Education",
     "manufacturername": "Dassault",
     "serialnumber": "21",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "education",
     "owner_country": "Switzerland"
   },
@@ -1327,7 +1327,7 @@
     "owner": "Spx Flow Inc",
     "manufacturername": "Bombardier",
     "serialnumber": "9382",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "pumping equipment",
     "owner_country": "USA"
   },
@@ -1471,7 +1471,7 @@
     "owner": "Dana Executive Jets",
     "manufacturername": "Airbus",
     "serialnumber": "1599",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "charter",
     "owner_country": "UAE"
   },
@@ -1534,7 +1534,7 @@
     "owner": "Amaggi Exportacao E Importacao Ltda",
     "manufacturername": "Cessna",
     "serialnumber": "680-0537",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "soybean export company",
     "owner_country": "Brazil"
   },
@@ -1669,7 +1669,7 @@
     "owner": "Jetflite Oy",
     "manufacturername": "Dassault",
     "serialnumber": "231",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "charter",
     "owner_country": "Finland"
   },
@@ -1804,7 +1804,7 @@
     "owner": "Zmf Participacoes Ltda",
     "manufacturername": "Embraer",
     "serialnumber": "50500291",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "company",
     "owner_country": "Brazil"
   },
@@ -1822,7 +1822,7 @@
     "owner": "Servicios Aereos Acf Aviacion Ltda",
     "manufacturername": "Embraer",
     "serialnumber": "50500253",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "charter",
     "owner_country": "Chile"
   },
@@ -1849,7 +1849,7 @@
     "owner": "Hamza Al Kholi",
     "manufacturername": "Airbus",
     "serialnumber": "3530",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "person",
     "owner_country": "Saudi Arabia"
   },
@@ -1858,7 +1858,7 @@
     "owner": "Elmet 7x Inc",
     "manufacturername": "Dassault",
     "serialnumber": "115",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "charter",
     "owner_country": "US"
   },
@@ -2038,7 +2038,7 @@
     "owner": "Tag Aviation Sa",
     "manufacturername": "Dassault",
     "serialnumber": "161",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "charter/maintenance",
     "owner_country": "Switzerland"
   },
@@ -2146,7 +2146,7 @@
     "owner": "Planair",
     "manufacturername": "Dassault",
     "serialnumber": "93",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "sustainable energy company",
     "owner_country": "France"
   },
@@ -2155,7 +2155,7 @@
     "owner": "City Electric Supply",
     "manufacturername": "Bombardier",
     "serialnumber": "20202",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "electrical wholesale company",
     "owner_country": "Belgium"
   },
@@ -2209,7 +2209,7 @@
     "owner": "Rh Flugdienst Gmbh",
     "manufacturername": "Embraer",
     "serialnumber": "50500069",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "charter",
     "owner_country": "Germany"
   },
@@ -2218,7 +2218,7 @@
     "owner": "Rotana Jet Aviation",
     "manufacturername": "Airbus",
     "serialnumber": "5277",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "charter",
     "owner_country": "UAE"
   },
@@ -2227,7 +2227,7 @@
     "owner": "Industriflyg",
     "manufacturername": "Bombardier",
     "serialnumber": "20136",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "charter",
     "owner_country": "Sweden"
   },
@@ -2317,7 +2317,7 @@
     "owner": "Lowes Companies Inc",
     "manufacturername": "Dassault Aviation",
     "serialnumber": "38",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "retail",
     "owner_country": "USA"
   },
@@ -2371,7 +2371,7 @@
     "owner": "Igreja Universal Do Reino De Deus",
     "manufacturername": "Embraer",
     "serialnumber": "50500010",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "miracle company",
     "owner_country": "Brazil"
   },
@@ -2389,7 +2389,7 @@
     "owner": "E I Dupont De Nemours & Company",
     "manufacturername": "Bombardier",
     "serialnumber": "20417",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "chemical company",
     "owner_country": "USA"
   },
@@ -2443,7 +2443,7 @@
     "owner": "Corporate",
     "manufacturername": "Dassault",
     "serialnumber": "216",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "unknown",
     "owner_country": "unknown"
   },
@@ -2470,7 +2470,7 @@
     "owner": "Execujet Scandinavia",
     "manufacturername": "Dassault",
     "serialnumber": "198",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "charter",
     "owner_country": "Switzerland"
   },
@@ -2506,7 +2506,7 @@
     "owner": "Institut National Des Sciences De L Univers Du Cnrs",
     "manufacturername": "Dassault",
     "serialnumber": "397",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "mational science institut",
     "owner_country": "France"
   },
@@ -2542,7 +2542,7 @@
     "owner": "Selementos Ltd",
     "manufacturername": "Textron Aviation",
     "serialnumber": "525C0197",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "private company",
     "owner_country": "Island of Man"
   },
@@ -2551,7 +2551,7 @@
     "owner": "Clos De Berry Leasing Ltd",
     "manufacturername": "Dassault Aviation",
     "serialnumber": "13",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "private",
     "owner_country": "USA"
   },
@@ -2713,7 +2713,7 @@
     "owner": "Ven Air",
     "manufacturername": "Dassault",
     "serialnumber": "178",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "silicon manufacturing company",
     "owner_country": "USA"
   },
@@ -2758,7 +2758,7 @@
     "owner": null,
     "manufacturername": "Bombardier (canadair)",
     "serialnumber": "5508",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "unknown",
     "owner_country": "unknown"
   },
@@ -2812,7 +2812,7 @@
     "owner": "Mpe Sa Partipicoes E Administracao",
     "manufacturername": "Embraer",
     "serialnumber": "50500136",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "management",
     "owner_country": "Brazil"
   },
@@ -2965,7 +2965,7 @@
     "owner": "K5-aviation Gmbh",
     "manufacturername": "Airbus",
     "serialnumber": "4470",
-    "nof": 1,
+    "nof": 0,
     "onwer_type": "charter",
     "owner_country": "Germany"
   },
